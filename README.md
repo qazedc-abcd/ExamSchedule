@@ -53,3 +53,7 @@
 ## 贡献
 
 欢迎提交[Issue](https://github.com/ExamAware/ExamSchedule/issues)和[Pull Request](https://github.com/ExamAware/ExamSchedule/pulls)来贡献代码。
+
+##  本仓库所有者备注
+
+会按照十堰市郧阳中学2023级联考步伐，进行默认考试更新。
