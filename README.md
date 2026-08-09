@@ -53,3 +53,7 @@
 ## 贡献
 
 欢迎提交[Issue](https://github.com/ExamAware/ExamSchedule/issues)和[Pull Request](https://github.com/ExamAware/ExamSchedule/pulls)来贡献代码。
+
+## 注
+
+本仓库所有者根据个人实际考试需求，更改了部分配置文件用于自托管。
